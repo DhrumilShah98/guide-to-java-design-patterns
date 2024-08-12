@@ -1,3 +1,5 @@
+package exercise._03._03_02;
+
 import java.time.LocalDate;
 
 public class Person {
